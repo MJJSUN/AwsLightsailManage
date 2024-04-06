@@ -8,5 +8,6 @@ For Debian/Ubuntu
 apt install python3-boto3 python3-botocore python3-requests
 
 Usage:
-'python aws.py'
-
+```
+python aws.py
+```
