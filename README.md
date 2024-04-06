@@ -2,10 +2,10 @@
 - Query IN/OUT bandwidth
 - Reboot/Start/Poweroff instance
 
-### Require:
-Python 3, AWS API Key(下载脚本后修改你自己的实例信息和密钥)
+### Require
+`Python 3, AWS API Key(下载脚本后修改你自己的实例信息和密钥)`
 
-### Prepare:
+### Prepare
 ```
 pip install boto3 botocore requests
 ```
@@ -15,7 +15,7 @@ pip install boto3 botocore requests
 apt install python3-boto3 python3-botocore python3-requests
 ```
 
-### Usage:
+### Usage
 ```
 python aws.py
 ```
