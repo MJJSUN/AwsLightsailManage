@@ -20,7 +20,7 @@ apt install python3-boto3 python3-botocore python3-requests
 wget https://github.com/MJJSUN/AwsLightsailManage/blob/main/aws.py
 ```
 
-- EDIT aws.py
+- EDIT FILE aws.py
 
 ```
 python aws.py
