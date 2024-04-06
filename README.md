@@ -1,6 +1,6 @@
 ### Feature
-Query IN/OUT bandwidth
-Reboot/Start/Poweroff instance
+- Query IN/OUT bandwidth
+- Reboot/Start/Poweroff instance
 
 ### Require:
 Python 3, AWS API Key(下载脚本后修改你自己的实例信息和密钥)
