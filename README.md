@@ -30,12 +30,12 @@ python aws.py
 
 ### Todo
 
-- [x] 脚本接收外部参数
-- [x] 脚本内添加crontab任务
+- [ ] 脚本接收外部参数
+- [ ] 脚本内添加crontab任务
 - [x] 一键查询所有实例
-- [x] 定时开机/超流关机
-- [x] 对接TG bot
-- [x] etc.
+- [ ] 定时开机/超流关机
+- [ ] 对接TG bot
+- [ ] etc.
 
 ### 参考文献:
 [在订阅中显示 Lightsail 流量使用情况](https://moenew.us/Lightsail-Traffic-Subscription.html)
