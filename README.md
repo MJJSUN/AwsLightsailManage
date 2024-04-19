@@ -39,3 +39,6 @@ python aws.py
 
 ### 参考文献:
 [在订阅中显示 Lightsail 流量使用情况](https://moenew.us/Lightsail-Traffic-Subscription.html)
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/MJJSUN/AwsLightsailManage.svg?variant=adaptive)](https://starchart.cc/MJJSUN/AwsLightsailManage)
