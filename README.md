@@ -1,4 +1,4 @@
 ### Build
 ```
-pyinstaller aws.py
+pyinstaller --onefile ALM.py
 ```
