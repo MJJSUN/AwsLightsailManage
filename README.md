@@ -1,4 +1,5 @@
-### Encoded by ChatGPT.
+### Encoded by ChatGPT. 开发版请切换到dev分支
+
 ### Feature
 - Query IN/OUT bandwidth
 - Reboot/Start/Poweroff instance
