@@ -33,7 +33,7 @@ python aws.py
 ### Todo
 
 - [ ] 脚本接收外部参数
-- [ ] 脚本内添加crontab任务
+- [ ] 脚本内添加~~crontab~~systemd任务
 - [x] 一键查询所有实例
 - [ ] 定时开机/超流关机
 - [ ] 对接TG bot
