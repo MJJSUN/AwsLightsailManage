@@ -1,3 +1,5 @@
+## 因为AWS码子涨价了，故作者需要减少使用AWS，新功能的开发无限延后。
+
 ### Encoded by ChatGPT. 开发版请切换到dev分支
 
 ### Feature
