@@ -9,7 +9,7 @@
 
 ### Prepare
 ```
-pip install boto3 botocore requests
+pip3 install boto3 botocore requests
 ```
 
 ### For Debian/Ubuntu
@@ -25,7 +25,7 @@ wget https://github.com/MJJSUN/AwsLightsailManage/blob/main/aws.py
 - EDIT FILE aws.py
 
 ```
-python aws.py
+python3 aws.py
 ```
 
 ---
