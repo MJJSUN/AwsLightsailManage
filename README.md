@@ -9,7 +9,7 @@ chmod +x ALM
 ./ALM
 ```
 
-你也可以直接执行脚本
+你也可以直接执行脚本，前提是安装boto3 botocore requests这三个运行库。
 ```
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/MJJSUN/AwsLightsailManage/dev/ALM.py" && python3 /root/ALM.py
 ```
