@@ -1,9 +1,6 @@
 ### Usage
 ```
-wget https://github.com/MJJSUN/AwsLightsailManage/releases/download/v1.0.0/ALM-linux-amd64 -O ALM
-```
-```
-chmod +x ALM
+wget https://github.com/MJJSUN/AwsLightsailManage/releases/download/v1.0.0/ALM-linux-amd64 -O ALM && chmod +x ALM
 ```
 ```
 ./ALM
